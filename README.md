@@ -9,7 +9,7 @@ The performance of a recommendation engine will significantly impact the revenue
 
 Designing a recommender from scratch is a time-consuming task.  In this assignment, you are expected to explore the data and create features that will be used to build the recommender. 
 
-**Data**
+## **Data**
 You will be working with the two CSV files linked below. 
 
 **_#raw recipe data_**
